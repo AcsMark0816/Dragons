@@ -1,0 +1,11 @@
+color;name;species;element;wingSpan;age;headCount;dailyFood;locationId
+Red;Pyra;Fire Drake;Fire;18.5;120;1;75.0;1
+Blue;Aqualis;Sea Serpent;Water;22.3;95;1;68.5;1
+Green;Verdan;Forest Wyvern;Earth;16.8;60;1;54.2;1
+White;Glaciera;Ice Dragon;Ice;24.1;140;1;82.7;2
+Black;Nocturn;Shadow Drake;Dark;20.7;110;1;70.4;2
+Gold;Solarion;Sun Dragon;Light;26.9;180;1;91.3;2
+Silver;Lunara;Moon Dragon;Air;19.4;130;1;64.8;2
+Purple;Stormrax;Thunder Wyvern;Lightning;21.6;88;2;77.9;2
+Bronze;Terragor;Mountain Drake;Earth;23.0;150;1;85.1;3
+Crimson;Infernix;Hydra;Fire;27.8;210;3;120.6;3
